@@ -1,0 +1,394 @@
+    <!DOCTYPE html>
+<html dir="ltr" lang="en">
+
+<head>
+
+  <!-- Meta Tags -->
+  <meta name="viewport" content="width=device-width,initial-scale=1.0" />
+  <meta http-equiv="content-type" content="text/css; charset=UTF-8" />
+  <meta name="description" content="Shekhawati Losal" />
+  <meta name="keywords" content="SIA" />
+  <meta name="author" content="ThemeMascot" />
+
+  <!-- Page Title -->
+  <title>Shekhawati Losal: The Best CBSE School in Sikar</title>
+
+  <!-- Favicon and Touch Icons -->
+  <link href="../assets/frontend/images/favicon.png" rel="shortcut icon"
+    type="image/png">
+  <link href="../assets/frontend/images/apple-touch-icon.png"
+    rel="apple-touch-icon">
+  <link href="../assets/frontend/images/apple-touch-icon-72x72.png"
+    rel="apple-touch-icon" sizes="72x72">
+  <link href="../assets/frontend/images/apple-touch-icon-114x114.png"
+    rel="apple-touch-icon" sizes="114x114">
+  <link href="../assets/frontend/images/apple-touch-icon-144x144.png"
+    rel="apple-touch-icon" sizes="144x144">
+
+  <!-- Stylesheet -->
+  <link href="../assets/frontend/css/bootstrap.min.css" rel="stylesheet"
+    type="text/css">
+  <link href="../assets/frontend/css/animate.min.css" rel="stylesheet"
+    type="text/css">
+  <link href="../assets/frontend/css/javascript-plugins-bundle.css"
+    rel="stylesheet" />
+
+  <!-- CSS | menuzord megamenu skins -->
+  <link href="../assets/frontend/js/menuzord/css/menuzord.css"
+    rel="stylesheet" />
+
+  <!-- CSS | Main style file -->
+  <link href="../assets/frontend/css/style-main.css" rel="stylesheet"
+    type="text/css">
+  <link id="menuzord-menu-skins"
+    href="../assets/frontend/css/menuzord-skins/menuzord-rounded-boxed.css"
+    rel="stylesheet" />
+
+  <!-- CSS | Responsive media queries -->
+  <link href="../assets/frontend/css/responsive.css" rel="stylesheet"
+    type="text/css">
+  <!-- CSS | Style css. This is the file where you can place your own custom css code. Just uncomment it and use it. -->
+
+  <!-- CSS | Theme Color -->
+  <link href="../assets/frontend/css/colors/theme-skin-color-set1.css"
+    rel="stylesheet" type="text/css">
+
+    <link rel="stylesheet" href="../assets/frontend/css/jquery.fancybox.min.css">
+
+
+ 
+  <style> 
+     
+    img { 
+      float: right !important; 
+      margin: 5px !important; 
+    } 
+   p
+   {
+	   margin-bottom: 1px !important;
+   }
+    
+    </style>
+
+</head>
+
+<body class="tm-container-1230px has-side-panel side-panel-right">
+
+
+
+
+  <style>
+  @keyframes shadow-pulse
+{
+  0% {
+    box-shadow: 0 0 0 0px rgba(236, 172, 19, 0.2);
+  }
+  100% {
+    box-shadow: 0 0 0 35px rgba(0, 0, 0, 0);
+  }
+}
+
+@keyframes shadow-pulse-big
+{
+  0% {
+    box-shadow: 0 0 0 0px rgba(0, 0, 0, 0.1);
+  }
+  100% {
+    box-shadow: 0 0 0 70px rgba(0, 0, 0, 0);
+  }
+}
+</style>
+<!-- Header -->
+<header id="header" class="header header-layout-type-header-2rows">
+    <div class="header-top bg-theme-colored2">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-auto header-top-left align-self-center text-center text-xl-start">
+                    <ul class="element contact-info">
+                        <li class="contact-phone"><i class="fa fa-phone font-icon sm-display-block"></i> Tel:  +91 9462018570
+                        </li>
+                        <li class="contact-email"><i class="fa fa-envelope font-icon sm-display-block"></i>
+                            admin@shekhawatilosal.com</li>
+                        <!-- <li class="contact-address"><i class="fa fa-map font-icon sm-display-block"></i> Shekhawati International Academy 
+
+Sikar Road, 
+
+Losal,
+
+Sikar (Raj.)</li> -->
+                    </ul>
+                </div>
+                <div class="col-xl-auto ms-xl-auto header-top-right align-self-center text-center text-xl-end">
+                    <div class="element pt-0 pb-0">
+                        <a href="../admission-form" class="btn btn-warning btn-sm py-2" style="transition: all .4s ease-in-out;background-size: 300% 100%;animation: shadow-pulse 1s infinite;">New Admission</a>
+                        <!-- <ul class="styled-icons icon-dark icon-theme-colored1 icon-circled clearfix">
+                            <li><a class="social-link" href="https://www.facebook.com/SIALosal"><i class="fab fa-facebook"></i></a></li>
+                         <li><a class="social-link" href="https://www.twitter.com/"><i class="fab fa-twitter"></i></a></li>
+                            <li><a class="social-link" href="https://www.youtube.com/@ShekhawatiSchool"><i class="fab fa-youtube"></i></a></li>
+                        </ul> -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="header-nav tm-enable-navbar-hide-on-scroll">
+        <div class="header-nav-wrapper navbar-scrolltofixed">
+            <div class="menuzord-container header-nav-container">
+                <div class="container position-relative">
+                    <div class="row header-nav-col-row ">
+                        <div class="col-lg-2  align-self-center">
+                            <a class="menuzord-brand site-brand"
+                                href="../index.html">
+                                <img class="logo-default logo-1x"
+                                    src="../uploads/settings/1721277325.png" alt="Logo">
+                                <!-- <img class="logo-default logo-2x retina"
+                                    src="https://www.shekhawatilosal.com/uploads/settings/1721277325.png" alt="Logo"> -->
+                            </a>
+                        </div>
+                        <div class="col-lg-10  pe-0 ps-0 align-self-center">
+                            <nav id="top-primary-nav" class="menuzord theme-color1" data-effect="fade"
+                                data-animation="none" data-align="right">
+                                <ul id="main-nav" class="menuzord-menu">
+                                    <li class="menu-item  ">
+                                        <a href="../index.html">Home</a>
+                                    </li>
+                                    <li class="menu-item"><a href="cancellation-policy#about-us-link">About Us</a>
+                                       <ul class="dropdown">
+                                          <li><a href="school-history">School History</a>
+                                          <li><a href="director-s-message">Director's Message</a></li>
+                                          <li><a href="principal-s-message">Principal's Message</a></li>
+                                          <li><a href="our-vision">Our Vision</a></li>
+                                          <li><a href="../our-management">Our Management Team</a></li>
+                                          <li><a href="overview">Overview</a></li>
+                                          <li><a href="discipline">Discipline</a></li>
+                                          <li><a href="why-sia">Why SIA?</a></li>
+                                          <li><a href="what-we-offer">What We Offer</a></li>
+                                          <li><a href="student-leadership-participation">Student Leadership And Participation</a></li>
+                                          <li><a href="../cbse-mendatory-public-disclosure">CBSE Mendatory Public Disclosure</a></li>
+                                          <li><a href="parenting-tips">Parenting Tips</a></li>
+                                        </ul>
+                                    </li>
+                                    <li class="menu-item"><a href="cancellation-policy#">Admissions</a>
+                                        <ul class="dropdown">
+                                            <li><a href="about-cbse-pattern">About CBSE Pattern</a>
+                                            <li><a href="admission-detail">Admission Detail</a></li>
+                                            <li><a href="../fee-structure">Fee Structure</a></li>
+                                            <li><a href="../e-brochure">E-Brochure</a></li>
+                                            <li><a href="general-info">General Info</a></li>
+                                            <li><a href="../transfer-certificate">Transfer Certificate</a></li>
+                                            <li><a href="refund-policy">Refund Policy</a></li>
+                                            <li><a href="terms-conditions">Terms & Conditions</a></li>
+                                            <li><a href="privacy-statement">Privacy Statements</a></li>
+                                            <li><a href="cancellation-policy">Cancellation Policy</a></li>
+                                          </ul>
+                                    </li>
+
+                                   <li class="menu-item"><a href="cancellation-policy#">Academics</a>
+                                    <ul class="dropdown">
+                                        <li><a href="../faculty">Faculty</a>
+                                        <li><a href="academic-calender">Academic Calender</a></li>
+                                        <li><a href="syllabus">Syllabus</a></li>
+                                    </ul>
+                                   </li>   
+                            
+                                <li class="menu-item"><a href="cancellation-policy#">Infrastructure</a>
+                                    <ul class="dropdown">
+                                        <li><a href="lecture-hall">Lecture Hall</a>
+                                        <li><a href="seminar-hall">Seminar Hall</a></li>
+                                        <li><a href="library">Library</a></li>
+                                        <li><a href="labs">Computer Lab</a></li>
+                                        <li><a href="sports">Sports</a></li>
+                                        <li><a href="art-craft-lab"> Art & Craft Lab </a></li>
+                                        <li><a href="transport">Transport</a></li>
+                                        <li><a href="music-and-dance">Music & Dance </a></li>
+                                    </ul>
+                                </li>
+                                <li class="menu-item  "><a href="../alumni">Alumni </a> </li>
+                                <li class="menu-item  "><a href="../gallery"> Gallery</a> </li>
+                                <li class="menu-item"><a href="https://vr.shekhawatilosal.com/">360° Tour Of School</a> </li>
+                                <li class="menu-item  "><a href="../contact-us">Contact Us</a> </li>
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                    <div class="row d-block d-xl-none">
+                        <div class="col-12">
+                            <nav id="top-primary-nav-clone"
+                                class="menuzord d-block d-xl-none default menuzord-color-default menuzord-border-boxed menuzord-responsive"
+                                data-effect="slide" data-animation="none" data-align="right">
+                                <ul id="main-nav-clone"
+                                    class="menuzord-menu menuzord-right menuzord-indented scrollable">
+                                </ul>
+                            </nav>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+
+      <main role="main">
+        <div class="main-content-area">
+            <!-- Section: inner-header Start -->
+            <section class="page-title layer-overlay overlay-light-9 section-typo-light bg-img-center" data-tm-bg-img="https://www.shekhawatilosal.com/assets/frontend/images/bg/upperimg.jpg">
+                <div class="container pt-90 pb-90">
+                    <!-- Section Content -->
+                    <div class="section-content">
+                        <div class="row">
+                            <div class="col-md-12 text-center">
+                                <h2 class="title text-white">Cancellation Policy</h2>
+                                <nav role="navigation" class="breadcrumb-trail breadcrumbs">
+                                    <div class="breadcrumbs">
+                                        <span class="trail-item trail-begin">
+                                            <a href="../index.html"><span>Home</span></a>
+                                        </span>
+                                        <span><i class="fa fa-angle-right"></i></span>
+                                        <span class="trail-item"><a href="cancellation-policy#"><span>Admission</span></a></span>
+                                        <span><i class="fa fa-angle-right"></i></span>
+                                        <span class="trail-item trail-end text-theme-colored1">Cancellation Policy</span>
+                                    </div>
+                                </nav>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </section>
+            <!-- Section: inner-header End -->
+
+            <!-- Section: About Us -->
+            <section>
+                <div class="container">
+                    <div class="section-content">
+                        <div class="row">
+                            <div class="col-lg-12 col-xl-12  wow fadeInLeft" data-wow-duration="1s" data-wow-delay="0.1s">
+                                <div class="about-text-content mb-md-30">
+                                    
+                                    <h5 class="text-theme-colored4">Cancellation Policy</h5>
+                                    <p><p style="text-align:justify;"><span style="font-size:18px;">Once deposit the fees, There is no provision of &nbsp;cancellation.</span></p></p>
+                                </div>
+                            </div>
+                            <!-- <div class="col-lg-5 col-xl-5 offset-xl-1 wow fadeInRight" data-wow-duration="1s"
+                                data-wow-delay="0.1s">
+                                <div class="video-popup">
+                                    <a>
+                                        <img alt="" src="https://www.shekhawatilosal.com/uploads/page"
+                                            class="img-fullwidth">
+                                    </a>
+                                </div>
+                            </div> -->
+                        </div>
+                    </div>
+                </div>
+            </section>
+
+        </div>
+        <!-- end main-content -->
+    </main>
+
+  <!-- Footer -->
+<footer id="footer" class="footer divider layer-overlay overlay-dark-8" data-tm-bg-img="https://www.shekhawatilosal.com/assets/frontend/images/bg/bg8.jpg">
+   <div class="footer-widget-area">
+     <div class="container pt-90 pb-40">
+       <div class="row">
+         <div class="col-md-6 col-lg-6 col-xl-3">
+           <div class="widget tm-widget-contact-info contact-info-style1 contact-icon-theme-colored1">
+             <div class="thumb">
+               <img alt="Logo" src="../uploads/settings/1721277325.png">
+             </div>
+             <div class="description">Shekhawati International Academy 
+
+Sikar Road, 
+
+Losal,
+
+Sikar (Raj.)</div>
+
+           </div>
+         </div>
+         <div class="col-md-6 col-lg-6 col-xl-3">
+           <div class="widget widget_nav_menu">
+             <h4 class="widget-title">Links</h4>
+             <ul>
+               <li><a href="../index.html">Home</a></li>
+               <li><a href="../news">News</a></li>
+               <li><a href="../gallery">Gallery</a></li>
+               <li><a href="../contact-us">Contact Us</a></li>
+               <li><a href="../admission-form">Admission Form</a></li>
+             </ul>
+           </div>
+         </div>
+        <div class="col-md-6 col-lg-6 col-xl-3">
+           <div class="widget">
+      
+           <div class="widget widget_nav_menu">
+                 <h4 class="widget-title">Services</h4>
+                 <ul>
+                   <li><a href="../fee-structure">Fee Structure</a></li>
+                   <li><a href="academic-calender">Academic Calender</a></li>
+                   <li><a href="terms-conditions">Terms & Conditions</a></li>
+                   <li><a href="privacy-statement">Privacy Statements</a></li>
+                   <li><a href="faqs">FAQs</a></li>
+                 </ul>
+               </div>
+           </div>
+         </div> 
+        <div class="col-md-6 col-lg-6 col-xl-3">
+          <div class="widget">
+            <h4 class="widget-title">Contact Us</h4>
+            <div class="widget tm-widget-contact-info contact-info-style1 contact-icon-theme-colored1">
+           <ul class="mb-30">
+              <li class="contact-phone">
+                <div class="icon"><i class="flaticon-contact-042-phone-1"></i></div>
+                <div class="text"><a href="tel: +91 9462018570"> +91 9462018570</a></div>
+              </li>
+              <li class="contact-email">
+                <div class="icon"><i class="flaticon-contact-043-email-1"></i></div>
+                <div class="text"><a href="mailto:admin@shekhawatilosal.com">admin@shekhawatilosal.com</a></div>
+              </li>
+            </ul>
+            </div>  
+            <div class="widget dark">
+                <h5 class="widget-title mb-10">Follow Us</h5>
+                <ul class="styled-icons icon-dark icon-theme-colored1 icon-rounded clearfix">
+                  <li><a class="social-link" href="https://www.facebook.com/SIALosal" ><i class="fab fa-facebook"></i></a></li>
+                  <!-- <li><a class="social-link" href="https://www.twitter.com/" ><i class="fab fa-twitter"></i></a></li> -->
+                  <li><a class="social-link" href="https://www.youtube.com/@ShekhawatiSchool" ><i class="fab fa-youtube"></i></a></li>
+                  
+                </ul>
+              </div>
+        </div> 
+       </div>
+  
+     </div>
+       </div>
+     <div class="footer-bottom" data-tm-bg-color="#2A2A2A">
+       <div class="container-fluid">
+         <div class="row pt-20 pb-20">
+           <div class="col-sm-12">
+             <div class="footer-paragraph text-center">
+              Copyrights © 2023 shekhawatilosal.com All Rights Reserved.
+             </div>
+           </div>
+          
+         </div>
+       </div>
+     </div>
+   
+ </footer>  <!-- Footer Scripts -->
+  <!-- JS | Custom script for all pages -->
+  <script src="../assets/frontend/js/jquery.js"></script>
+  <script src="../assets/frontend/js/bootstrap.min.js"></script>
+  <script src="../assets/frontend/js/menuzord/js/menuzord.js"></script>
+  <script src="../assets/frontend/js/custom.js"></script>
+  <!-- external javascripts -->
+  <script src="../assets/frontend/js/popper.min.js"></script>
+  <script src="../assets/frontend/js/javascript-plugins-bundle.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.5.7/jquery.fancybox.min.js"></script>
+
+
+   
+  
+</body>
+
+</html>
